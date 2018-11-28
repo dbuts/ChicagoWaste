@@ -4,6 +4,7 @@
 }
 
 div{
+	position:relative;
 	width: 960px;
 	margin: 15px auto;
 	margin-top: 84px;
@@ -109,14 +110,14 @@ img.links{
 	position: fixed;
 	margin-top: 10px;
 	margin-bottom: 5.5px;
-	margin-left: 250px;
+	margin-left: 150px;
 	width: 960px;
 	float: left;
 	text-align: left;
 }
 
 .alignright {
-	position: relative;
+	position: fixed;
 	margin-top: -55px;
 	margin-bottom: 5.5px;
 	margin-right: 250px;
@@ -129,7 +130,6 @@ img.links{
 	top: 0;
 	margin: 0px auto;
 	width: 75%;
-	position: fixed;
 	left: 50%;
 	margin-left: -37.5%;
 	z-index: 100;
