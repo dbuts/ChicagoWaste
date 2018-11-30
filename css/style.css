@@ -11,7 +11,7 @@ div{
 }
 
 p {
-	font-size: 95%;
+	font-size: 100%;
 	padding:10px 35px;
 	font-family: 'Noto Sans', sans-serif;
 }
@@ -100,6 +100,11 @@ div.links{
 	text-align: center;
 	width: 960px;
 	margin-top: 10px;
+}
+
+div.image{
+	text-align:center;
+	width: 960px;
 }
 
 img.links{
